@@ -1,5 +1,7 @@
 ## Miniaturized plate reader designs
-This repository provides all the materials needed to assemble a miniaturized plate reader for measuring optical density in 96-well plates.  
+This repository provides all the materials needed to assemble a miniaturized plate reader for measuring optical density in 96-well plates. 
+
+Code is available at: https://github.com/BonnieDougherty/PlateReaderCode
 
 -- 
 ### File Descriptions
